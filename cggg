@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Boxing Lessons</title>
+</head>
+<body>
+<h1>Boxing Lessons</h1>
+<p>Book your boxing lessons today!</p>
+<form action="booking.php" method="post">
+<input type="text" name="name" placeholder="Your name">
+<input type="email" name="email" placeholder="Your email">
+<input type="date" name="date" placeholder="Date of lesson">
+<input type="time" name="time" placeholder="Time of lesson">
+<input type="submit" value="Book Lesson">
+</form>
+</body>
+</html>
